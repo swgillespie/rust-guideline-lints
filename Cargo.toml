@@ -1,0 +1,8 @@
+[package]
+name = "rust_guideline_lints"
+version = "0.0.1"
+authors = [ "Sean Gillespie <sean.william.g@gmail.com>" ]
+
+[[lib]]
+name = "rust_guideline_lints"
+plugin = true
